@@ -1,0 +1,16 @@
+* Symlinks
+#+begin_src sh :tangle ~/.dotfiles/dotfiles.sh
+cd
+ln -sf ~/.dotfiles/.conda ~/
+ln -sf ~/.dotfiles/.zshrc ~/
+ln -sf ~/.dotfiles/.emacs.d/configuration.org ~/.emacs.d/configuration.org
+ln -sf ~/.dotfiles/.condarc ~/
+ln -sf ~/.dotfiles/.gitconfig ~/
+ln -sf ~/.dotfiles/Wallpapers ~/Pictures
+ln -sf ~/.dotfiles/.fonts ~/
+ln -sf ~/.dotfiles/.kaggle ~/
+ln -sf ~/.dotfiles/.themes ~/
+
+#+end_src
+
+#+RESULTS:

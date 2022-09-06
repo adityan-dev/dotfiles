@@ -1,0 +1,7 @@
+[safe]
+	directory = /media/data/Study/Projects/ml-projects
+[user]
+	email = official.adityan@gmail.com
+	name = adityan
+[http]
+	postBuffer = 157286400
